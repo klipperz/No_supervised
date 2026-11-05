@@ -24,10 +24,9 @@ Comparar tres representaciones del mismo conjunto de datos (variables originales
 
 ## Contenido del repositorio
 
-- `TP3_No_Supervisado.ipynb`: notebook completo con explicaciones, visualizaciones e interpretación.
-- `Wholesale_customers_data.csv`: datos.
+- `No_Supervisado.ipynb`: notebook completo con explicaciones, visualizaciones e interpretación.
+- `Wholesale customers data.csv`: datos.
 - `resultados_kmeans.csv`: tabla comparativa (enfoque, K, inercia, silhouette, tamaños de cluster).
-- `figures/`: gráficos generados por el notebook.
 
 Para reproducir: `pip install pandas numpy scikit-learn matplotlib seaborn jupyter` y ejecutar el notebook (semilla fija en 42).
 

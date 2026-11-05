@@ -1,7 +1,7 @@
-# TP3 - Aprendizaje No Supervisado: segmentación de clientes mayoristas
-
+# Aprendizaje No Supervisado
+# Por: Samuel Angel Cardona
 ## Descripción del dataset
-
+Extraido de: https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set
 Wholesale Customers (UCI Machine Learning Repository, también en Kaggle): 440 clientes de un distribuidor mayorista en Portugal, con su gasto anual en distintas categorías de producto. No tiene valores faltantes.
 
 Variables usadas en el análisis (6, todas numéricas y continuas):
